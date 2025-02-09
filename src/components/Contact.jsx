@@ -128,7 +128,7 @@ export default function Contact() {
                   location_on
                 </span>
                 <div className="text-sm text-gray-500">
-                  Gulshan-2, Dhaka-1212, Bangladesh
+                  Gulshan, Dhaka-1212, Bangladesh
                 </div>
               </div>
             </div>
